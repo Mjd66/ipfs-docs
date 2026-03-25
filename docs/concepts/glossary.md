@@ -1,3 +1,4 @@
+hacked by iserdoAS
 ---
 title: Glossary
 sidebarDepth: 0
